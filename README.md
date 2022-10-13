@@ -1,4 +1,5 @@
 # Vacation Challenge
 
-##Overview
+## Overview
+
 Jack approaches us with another project to improve the PlanMyTrip App. He wants us to use the weather data that we have retrieved to create a travel itinerary for project beta testers. The code contains input statements that the beta testers can use to determine what their desired temperature will be during this trip. After gaining their input, the code will create a filtered DataFrame that will show the cities around the world that fall within the minimum and maximum temperatures. From this list cities, we'll pull in data to locate nearby hotels that we can add to our travel itinerary. Once the list of hotels is retrieved, the beta testers will select four hotels and cities that are within close enough proximity to travel by car, bike, or on foot. I then created a travel map to show the route that includes each destination on Google Maps. Finally, we provided a snapshot of the current weather information for each of the travel destinations that includes the hotel name, city name, temperature, and a description of the current weather conditions. 
